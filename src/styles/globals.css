@@ -1,0 +1,14 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+@font-face {font-family: 'Raleway';src: url("../fonts/Raleway.ttf");}
+* {font-family: Raleway;}
+
+#banner1 {background-image: url('../assets/banner1.png');}
+#banner2 {background-image: url('../assets/banner2.png');}
+#banner3 {background-image: url('../assets/banner-about.png');}
+#banner4 {background-image: url('../assets/banner.png');}
+
+#bgBlack {background-color: #000000;}
+#bgGray {background-color: #323538;}
